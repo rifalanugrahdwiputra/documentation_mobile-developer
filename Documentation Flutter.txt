@@ -1,0 +1,38 @@
+# Arcitecture Fluter / Pattern
+ 1. MVP
+ 2. MVVM
+ 3. MVC
+ 4. Clean Architecture
+ 5. Scoped Model
+ 6. Common
+ 7. Others
+
+# Change icon ios and android
+ - https://www.geeksforgeeks.org/flutter-changing-app-icon/
+-------------------------------------------------
+# Generate icon ios and android 
+ - https://www.appicon.co/
+-------------------------------------------------
+# Firebase android documentation
+ - https://www.freecodecamp.org/news/how-to-add-push-notifications-to-flutter-app/
+-------------------------------------------------
+# Documentation Upload App Store And Play Store
+-------------------------------------------------
+# Documentation play store
+ - https://docs.flutter.dev/deployment/android
+-------------------------------------------------
+# Documentation app store
+ - https://docs.flutter.dev/deployment/ios
+-------------------------------------------------
+# App store requirement
+-------------------------------------------------
+ - https://appleid.apple.com/
+ - https://developer.apple.com/
+ - Xcode
+ - Apple Profile UIUD ios and name
+ - https://appstoreconnect.apple.com/login
+-------------------------------------------------
+# Play store
+-------------------------------------------------
+ - https://play.google.com/console/u/0/developers
+-------------------------------------------------
