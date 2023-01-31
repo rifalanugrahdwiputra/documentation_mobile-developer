@@ -7,6 +7,9 @@
  6. Common
  7. Others
 
+# Animation Rave
+ - https://flare.rive.app/explore/popular/trending/all
+
 # Change icon ios and android
  - https://www.geeksforgeeks.org/flutter-changing-app-icon/
 -------------------------------------------------
