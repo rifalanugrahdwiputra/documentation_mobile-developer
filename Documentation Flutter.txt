@@ -6,10 +6,16 @@
  5. Scoped Model
  6. Common
  7. Others
-
+-------------------------------------------------
 # Animation Rave
  - https://flare.rive.app/explore/popular/trending/all
-
+ - Export dulu di link di atas
+ - Tambahkan flare_flutter package
+ - Tambahkan file rave yang di download tadi ke projet kalian
+ - Tambahkan lokasi file rave yang tadi kalian simpan di pubspec yaml
+ - Tambahkan FlareActor("lokasi file rave tadi")
+ - Atur menggunakan state untuk menjalankan fungsi pada rave ini
+-------------------------------------------------
 # Change icon ios and android
  - https://www.geeksforgeeks.org/flutter-changing-app-icon/
 -------------------------------------------------
