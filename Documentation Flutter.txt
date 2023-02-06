@@ -7,6 +7,38 @@
  6. Common
  7. Others
 -------------------------------------------------
+# Provider State Management
+ - Class Money with ChangeNotifier {
+    int _quantity = 0;
+    int get quantity = _quantity;
+    set quantity(int value){
+        _quantity = value;
+        notifyListeners();
+    }
+ }
+ - Bungkus component meggunakan MultiProvider()
+ - MultiProvider(
+    providers: [
+     ChangeNotifierProvider<Money>(builder: (context) => Money()),
+     Jika ada lebih masukan disini dengan format yang sama   
+    ],
+ ),
+ - Bungkus komponen yang akan diganti berdasarkan statenya
+ - Consumer<Money>(
+    builder: (context, money, _) => Text(
+        money.quantity.toString,
+    ),
+ ),
+-------------------------------------------------
+# Card Widget
+ - Card(
+    elevation: Ini untuk memberikan jarak dari background ke cardnya
+    child: Isian child
+ ),
+-------------------------------------------------
+# Jet Layout
+ - Column, Row, Dll
+-------------------------------------------------
 # Hero
  - Hero berguna untuk memberikan animasi pada child yang ingin di animasi
  - Hero(
