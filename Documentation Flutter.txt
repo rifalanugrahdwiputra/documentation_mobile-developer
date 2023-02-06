@@ -6,7 +6,7 @@
  5. Scoped Model
  6. Common
  7. Others
- -------------------------------------------------
+-------------------------------------------------
 # Hero
  - Hero berguna untuk memberikan animasi pada child yang ingin di animasi
  - Hero(
