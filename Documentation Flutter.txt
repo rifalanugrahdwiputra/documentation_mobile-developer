@@ -6,6 +6,32 @@
  5. Scoped Model
  6. Common
  7. Others
+ -------------------------------------------------
+# Hero
+ - Hero berguna untuk memberikan animasi pada child yang ingin di animasi
+ - Hero(
+    tag: 'pp',
+    child: Isian child yang ingin di animasi
+ ),
+-------------------------------------------------
+# Stack
+ - Stack berguna untuk membuat widget dengan positioned automatic set manual
+-------------------------------------------------
+# Flexibel Widget
+ - Flexibel(
+    flex: Perbandingan widgetnya
+    child: Isian widgetnya
+ ),
+-------------------------------------------------
+# Positioning Widget
+ - Stack(
+    children: [
+        Positioned(
+            top: Jika mundur atur menggunakan ( - )
+            child: Isian widgetnya
+        ),
+    ],
+ ),
 -------------------------------------------------
 # Animation Rave
  - https://flare.rive.app/explore/popular/trending/all
