@@ -16,7 +16,7 @@
         notifyListeners();
     }
  }
- - Bungkus component meggunakan MultiProvider()
+ - Bungkus component menggunakan MultiProvider()
  - MultiProvider(
     providers: [
      ChangeNotifierProvider<Money>(builder: (context) => Money()),
