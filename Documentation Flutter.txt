@@ -6,6 +6,10 @@
  5. Scoped Model
  6. Common
  7. Others
+ -------------------------------------------------
+# Flutter Get Sosial Media
+ - https://wa.me/handphone_number (wa)
+ - https://www.instagram.com/account_name/?hl=en (ig)
 -------------------------------------------------
 # Provider State Management
  - Class Money with ChangeNotifier {
